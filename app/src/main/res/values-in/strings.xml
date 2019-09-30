@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Katalog Film API</string>
+    <string name="change_language_menu">Ganti Bahasa</string>
+    <string name="firsttab">Film</string>
+    <string name="secondtab">Televisi</string>
+    <string name="language">id-ID</string>
+</resources>

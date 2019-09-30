@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Catalogue API</string>
+    <string name="change_language_menu">Change Language</string>
+    <string name="firsttab">Movie</string>
+    <string name="secondtab">TV</string>
+    <string name="language">en-US</string>
+</resources>
